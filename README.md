@@ -1,6 +1,6 @@
-# PollEase - Create Polls & Ask for Suggestions
+# PollApp - Create Polls & Ask for Suggestions
 
-PollEase is a Flutter application that allows users to create polls and gather suggestions from others. It provides an interactive and engaging way to collect opinions and make informed decisions.
+PollApp is a Flutter application that allows users to create polls and gather suggestions from others. It provides an interactive and engaging way to collect opinions and make informed decisions.
 
 ## 🚀 Features
 
