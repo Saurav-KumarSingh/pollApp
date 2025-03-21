@@ -34,5 +34,11 @@ PollEase is a Flutter application that allows users to create polls and gather s
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/pollease.git
-   cd pollease
+   git clone https://github.com/Saurav-KumarSingh/pollApp/
+   cd pollApp
+
+
+## Screenshots
+<img src="screenshot/a.png" alt="PollApp">
+<img src="screenshot/b.png" alt="PollApp">
+<img src="screenshot/c.png" alt="PollApp">
