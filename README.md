@@ -14,9 +14,8 @@ PollApp is a Flutter application that allows users to create polls and gather su
 ## 🛠 Tech Stack
 
 - **Frontend:** Flutter (Dart)
-- **Backend:** Node.js (or Firebase, if used)
-- **Database:** Firestore / MongoDB / MySQL (mention what you're using)
-- **State Management:** Provider / Riverpod / Bloc (mention what you're using)
+- **Backend:** Node.js 
+- **Database:** Firestore / MongoDB
 
 ## 📸 Screenshots
 
